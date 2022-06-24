@@ -1,6 +1,6 @@
 # JavaScript 01
 
-<img height="300px" src="https://i.imgur.com/5mwdXEb.gif">
+<img height="300px" src="">
 
 Deploy: https://gabrielvinhas.github.io/javascript01/
 
